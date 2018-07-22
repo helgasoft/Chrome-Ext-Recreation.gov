@@ -3,7 +3,7 @@
   "version": "0.1",
   "manifest_version": 2,
   "description": "remove annoying footer in middle of page",
-  "homepage_url": "https://github.com/helgasoft/chrome-recgov",
+  "homepage_url": "https://github.com/helgasoft/Chrome-Ext-Recreation.gov",
   "icons": { "16": "rec.gov.png" },
   "browser_action": {},
   "background": {
